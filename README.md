@@ -21,10 +21,11 @@
 
 ## 🔎 What is WhatsDog?
 **WhatsDog,** is a WhatsApp temporary ddos tools bot written by [Casper](https://t.me/maapple). Your target account will be logout from whatsapp.
--
 
+-
 ## 💻 Setup
 ### Termux
+
 Clone Reposity
 ```bash
 git clone https://github.com/CasperCloudku/WhatsDog
@@ -41,6 +42,7 @@ npm start
 ```
 
 ### Virtual Machine / VPS
+
 Upgrade Package
 ```bash
 apt update && apt upgrade -y
