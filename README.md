@@ -66,8 +66,6 @@ npm start
 
 ### NOTE!! ONLY FOR UBUNTU 20.04 - 22.04
 
---
-
 ## F.A.Q
 Answer a few frequently asked questions;
 ### Can make target auto logout?
